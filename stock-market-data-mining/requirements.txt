@@ -1,0 +1,12 @@
+# Notebook
+pandas>=2.2
+numpy
+matplotlib
+python-dotenv
+alpha_vantage
+
+# Desktop app (investinsight_app.py)
+mplcursors
+tkcalendar
+pillow
+pytz
